@@ -43,4 +43,11 @@ Se tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma issue ou ent
 - **Redundãncia de zonas:** Distribuição dos recursos em diferentes zonas geográficas para aumentar a tolerância a falhas.
 - **Gerenciamento de armazenamento:** Também envolve tipos de redundâncias.
 
+  ### Tipos de serviços:
+- SaaS (Software como Serviço): O usuário final acessa apenas o serviço, sem se preocupar com a infraestrutura. É amplamente utilizado em aplicações que utilizam inteligência artificial e funções como serviço, como ferramentas de produtividade, redes sociais e serviços de streaming.
+
+- PaaS (Plataforma como Serviço): Fornece uma plataforma completa para desenvolvimento e hospedagem de aplicativos, abstraindo a complexidade da infraestrutura subjacente. Desenvolvedores podem se concentrar no código, sem precisar gerenciar o sistema operacional, bancos de dados e outros componentes. Exemplos incluem Microsoft Azure App Service para hospedagem de aplicativos web, Azure SQL Database para bancos de dados relacionais e Azure Kubernetes Service (AKS) para orquestração de contêineres.
+
+- IaaS (Infraestrutura como Serviço): Oferece recursos de computação em nuvem, como servidores virtuais, armazenamento e redes, sob demanda. É a camada mais básica da computação em nuvem, permitindo um alto grau de controle sobre a infraestrutura. Grandes empresas como Teams, Netflix e provedores de email utilizam IaaS para hospedar suas aplicações e dados.
+
 
