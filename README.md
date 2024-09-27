@@ -29,3 +29,18 @@ Se tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma issue ou ent
 
 **Autora**: Ana Clara Melo  
 **Bootcamp**: DIO - Microsoft Azure Fundamentals
+
+## Aprendizados
+
+- **SLA(Service Level Agreement):** Fornecem os compromissos da Microsoft para tempo de atividade e conectividade, serve para definir o escopo de trabalho e estabelece quais serão as normas, os acordos, as metas e as demais questões relacionadas ao serviço que será prestado.
+- **Alta disponibilidade(High availability)** → Garantia de que os serviços estarão disponíveis para os usuários o tempo todo, minimizando interrupções.
+- **Elasticidade:** A capacidade de ajustar dinamicamente a quantidade de recursos computacionais para atender às demandas variáveis, sem comprometer o desempenho.
+- **Confiabilidade:** Capacidade do sistema de se recuperar de falhas e operar de forma consistente, mesmo em situações adversas.
+- **Previsibilidade:**  Capacidade de prever os custos da nuvem com base no uso dos recursos e de otimizar os gastos.
+- **Segurança:** Algumas ferramentas/serviços por parte do provider e outras pelo clientes, a nuvem oferece ferramentas de segurança e algumas dependem do clinte realizar a ativação.
+- **Governança:** Controle e monitoramento dos recursos da nuvem, incluindo provisionamento, configuração e otimização.
+- **Gerenciamento:** gerenciamento, provisionamento de recuros, definição de alertas, uso de código, escalamento de recursos com modelos, automatizar
+- **Redundãncia de zonas:** Distribuição dos recursos em diferentes zonas geográficas para aumentar a tolerância a falhas.
+- **Gerenciamento de armazenamento:** Também envolve tipos de redundâncias.
+
+
