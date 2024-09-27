@@ -31,7 +31,7 @@ Se tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma issue ou ent
 **Bootcamp**: DIO - Microsoft Azure Fundamentals
 
 ## Aprendizados
-
+### Modulo 1
 - **SLA(Service Level Agreement):** Fornecem os compromissos da Microsoft para tempo de atividade e conectividade, serve para definir o escopo de trabalho e estabelece quais serão as normas, os acordos, as metas e as demais questões relacionadas ao serviço que será prestado.
 - **Alta disponibilidade(High availability)** → Garantia de que os serviços estarão disponíveis para os usuários o tempo todo, minimizando interrupções.
 - **Elasticidade:** A capacidade de ajustar dinamicamente a quantidade de recursos computacionais para atender às demandas variáveis, sem comprometer o desempenho.
@@ -50,4 +50,14 @@ Se tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma issue ou ent
 
 - IaaS (Infraestrutura como Serviço): Oferece recursos de computação em nuvem, como servidores virtuais, armazenamento e redes, sob demanda. É a camada mais básica da computação em nuvem, permitindo um alto grau de controle sobre a infraestrutura. Grandes empresas como Teams, Netflix e provedores de email utilizam IaaS para hospedar suas aplicações e dados.
 
+### Modulo 2
 
+**Recursos Azure:**
+Existem recursos para armazenamento, vm, redes virtuais, funções…
+
+- Grupo de recursos → painel com seus serviços (vm,ip, vnets, segurança,….todos), é possivel criar vários, especificos, é uma forma de organizar, pode usar conforme seus objetivos, não precisam estar na mesma região, não pode ser renomeado, os recursos podem pertencer a apenas um grupo de recursos, os recursos podem ser movidos de grupos, apps podem usar vários grupos de recursos
+
+- **Assinaturas azure:**
+- uma conta pode ter várias assinatiras, mas uma assinatura pertence a apenas uma conta
+- estratégia para reduzir custos: criar assinaturas especificas por grupos, reduzindo gastos desnecessários
+- limites de cobranças, gerar relaorios separados por assinaturas, gerenciar acesso
