@@ -24,6 +24,8 @@ O exame **Microsoft Certified: Azure Fundamentals (AZ-900)** é voltado para aqu
 ## Contato
 
 Se tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma issue ou entrar em contato.
+
+
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/cadastrosanaw)
 ---
 
@@ -61,3 +63,6 @@ Existem recursos para armazenamento, vm, redes virtuais, funções…
 - uma conta pode ter várias assinatiras, mas uma assinatura pertence a apenas uma conta
 - estratégia para reduzir custos: criar assinaturas especificas por grupos, reduzindo gastos desnecessários
 - limites de cobranças, gerar relaorios separados por assinaturas, gerenciar acesso
+
+
+
